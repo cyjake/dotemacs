@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/sql-mode
+END
+references
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/sql-mode/references
+END
+create.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/sql-mode/create.1
+END
+constraint.1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/sql-mode/constraint.1
+END
+create
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/sql-mode/create
+END
+constraint
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/sql-mode/constraint
+END
+column
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/sql-mode/column
+END

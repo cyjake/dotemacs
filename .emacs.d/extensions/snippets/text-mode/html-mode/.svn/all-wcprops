@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode
+END
+link.stylesheet-ie
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/link.stylesheet-ie
+END
+ul
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/ul
+END
+title
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/title
+END
+href
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/href
+END
+mailto
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/mailto
+END
+div.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/div.class
+END
+meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/meta
+END
+pre
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/pre
+END
+dd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/dd
+END
+meta.http-equiv
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/meta.http-equiv
+END
+span.id
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/span.id
+END
+quote
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/quote
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/input
+END
+dl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/dl
+END
+br
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/br
+END
+doctype.xhtml1_1
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/doctype.xhtml1_1
+END
+li
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/li
+END
+html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/html
+END
+html.xmlns
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/html.xmlns
+END
+span.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/span.class
+END
+td
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/td
+END
+doctype
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/doctype
+END
+dt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/dt
+END
+blockquote
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/blockquote
+END
+h1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/h1
+END
+script.javascript
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/script.javascript
+END
+h2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/h2
+END
+hr
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/hr
+END
+doctype.xhtml1_transitional
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/doctype.xhtml1_transitional
+END
+h3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/h3
+END
+doctype.xhtml1_strict
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/doctype.xhtml1_strict
+END
+h4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/h4
+END
+th
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/th
+END
+img
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/img
+END
+h5
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/h5
+END
+h6
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/h6
+END
+div.id
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/div.id
+END
+textarea
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/textarea
+END
+code.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/code.class
+END
+ol.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/ol.class
+END
+div.id-class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/div.id-class
+END
+div
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/div
+END
+ul.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/ul.class
+END
+link.stylesheet
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/link.stylesheet
+END
+tr
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/tr
+END
+table
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/table
+END
+dl.id
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/dl.id
+END
+pre.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/pre.class
+END
+body
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/body
+END
+script.javascript-src
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/script.javascript-src
+END
+doctype.xhml1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/doctype.xhml1
+END
+p
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/p
+END
+style
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/style
+END
+head
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/head
+END
+span
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/span
+END
+form
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/form
+END
+ol.id
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/ol.id
+END
+li.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/li.class
+END
+code
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/code
+END
+ol
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/ol
+END
+ul.id
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/html-mode/ul.id
+END

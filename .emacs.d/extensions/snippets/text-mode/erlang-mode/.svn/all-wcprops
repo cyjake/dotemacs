@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode
+END
+mod
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/mod
+END
+begin
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/begin
+END
+imp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/imp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/compile
+END
+fun
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/fun
+END
+rcv.after
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/rcv.after
+END
+rcv
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/rcv
+END
+ifndef
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/ifndef
+END
+exp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/exp
+END
+beh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/beh
+END
+def
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/def
+END
+if
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/if
+END
+undef
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/undef
+END
+after
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/after
+END
+inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/inc
+END
+loop
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/loop
+END
+rec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/rec
+END
+case
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/case
+END
+ifdef
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/ifdef
+END
+inc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/inc.lib
+END
+try
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/.emacs.d/extensions/snippets/text-mode/erlang-mode/try
+END

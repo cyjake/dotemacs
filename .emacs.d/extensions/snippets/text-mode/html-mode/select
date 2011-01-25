@@ -1,0 +1,4 @@
+#contributor : Jimmy Wu <frozenthrone88@gmail.com>
+#name : <select>...</select>
+# --
+<select name="$1">$2</select>
