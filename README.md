@@ -1,12 +1,5 @@
-Jake's Vim Configurations
+Jake's Emacs Configurations
 =========================
 
-I started using vim since 2005, but never fancy the style of it.
-Editing with so many modes isn't so intuitive to me, at least at first.
+Emacs is big. It's so big that it's rather an operating system than editor.
 
-Then Emacs came to me, with [pluskid](http://blog.pluskid.org)'s 
-emacs configurations. After almost 5 years of Muse, EMMS, 
-my fingers gave up finally when they have to press some key bindings 
-like `C-c ; f c` to find some controller in a rails project.
-
-I'd rather type `:Rcontroller` instead. 
