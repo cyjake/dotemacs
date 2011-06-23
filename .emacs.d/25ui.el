@@ -1,4 +1,4 @@
-(set-default-font "-*-Envy Code R-normal-r-normal-normal-13-97-96-96-c-*-iso8859-1")
+(set-default-font "-apple-Monaco-medium-normal-normal-*-12-*-*-*-m-0-iso10646-1")
 
 ;; when under Windows NT and Window 7
 ;; (set-language-environment "Chinese-GBK")
@@ -7,7 +7,7 @@
 
 (setq inhibit-startup-message t)	; 关闭启动画面
 
-(tool-bar-mode nil)		        ; 去掉那个大大的工具栏
+;; (tool-bar-mode nil)		        ; 去掉那个大大的工具栏
 (set-scroll-bar-mode nil) 	        ; 去掉滚动条
 (mouse-avoidance-mode 'animate)	        ; 光标靠近鼠标指针时, 鼠标指针自动让开
 
